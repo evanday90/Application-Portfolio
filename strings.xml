@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Application Portfolio</string>
+    <string name="movieButton">Popular movies</string>
+    <string name="stockHawkButton">Stock Hawk</string>
+    <string name="buildBiggerButton">Build it Bigger</string>
+    <string name="goUbiquitousButton">Go Ubiquitous</string>
+    <string name="capstoneButton">Capstone</string>
+    <string name="appMaterialButton">Make Your App Material</string>
+    <string name="headline">My Applications</string>
+</resources>
