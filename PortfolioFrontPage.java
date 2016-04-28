@@ -8,6 +8,21 @@ import android.widget.Toast;
 
 public class PortfolioFrontPage extends AppCompatActivity
 {
+    /* is it possible to add another parameter as input so i can use
+    one method for all of the toasts instead of a different method 
+    for each toast? possible method shown below but I don't know how
+    to call it with the extra parameter.
+    
+    public void toast(View view, Charsequence text)
+    {
+        Context context = getApplicationContext();
+        int duration = Toast.LENGTH_SHORT;
+        
+        Toast toast = Toast.makeText(context, text, duration);
+        toast.show();
+    } */
+    
+    
     public void movieToast(View view)
     {
         Context context = getApplicationContext();
