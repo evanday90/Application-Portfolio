@@ -7,7 +7,8 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.portfolio.evanday.applicationportfolio.PortfolioFrontPage">
+    tools:context="com.portfolio.evanday.applicationportfolio.PortfolioFrontPage"></RelativeLayout>
+    <!-- tried android:background="@drawable/seattle" but makes it so app wont run, why not?-->
 
     <TextView
         android:layout_width="wrap_content"
